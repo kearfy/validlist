@@ -1,0 +1,24 @@
+{
+  "name": "validlist",
+  "version": "1.0.0",
+  "description": "Basic Array-based validation module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kearfy/validlist.git"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "array",
+    "valid",
+    "list",
+    "validlist"
+  ],
+  "author": "Micha de Vries",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/kearfy/validlist/issues"
+  },
+  "homepage": "https://github.com/kearfy/validlist#readme"
+}

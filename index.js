@@ -1,0 +1,1 @@
+"use strict"; module.exports = validations => validations.constructor.name == 'Array' ? validations.filter(validation => validation).length == validations.length : new Error('Validator input must be an array');
